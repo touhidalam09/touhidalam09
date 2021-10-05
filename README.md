@@ -2,11 +2,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-TouhidAlam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/touhid-alam-09/)](https://www.linkedin.com/in/touhid-alam-09/)
 [![Gmail Badge](https://img.shields.io/badge/-touhidalam649@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:touhidalam649@gmail.com)](mailto:touhidalam649@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@TouhidAlamProtfolio-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=http://touhidalam.epizy.com/)](http://touhidalam.epizy.com/)
-</br></br></br></br>
+</br></br></br>
 
 - 👋 Hi, I’m @Touhid Alam
 - 👀 I’m interested in Web Development, Gameing, Traveling, Cocking.
-</br></br></br></br>
+</br></br></br>
 
 
 
@@ -19,8 +19,6 @@
 ### - 🌱 I Know More About </br>
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel)
-![CodeIgneter 4](https://img.shields.io/badge/-CodeIgneter4-000000?style=for-the-badge&logo=codeIgneter)
-![AJAX](https://img.shields.io/badge/-AJAX-000000?style=for-the-badge&logo=AJAX)
 ![JQuery](https://img.shields.io/badge/-JQuery-000000?style=for-the-badge&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
@@ -29,7 +27,9 @@
 ![MySql](https://img.shields.io/badge/-MySql-000000?style=for-the-badge&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-</br></br></br></br>
+![CodeIgneter4](https://img.shields.io/badge/-CodeIgneter4-000000?style=for-the-badge&logo=codeIgneter)
+![AJAX](https://img.shields.io/badge/-AJAX-000000?style=for-the-badge&logo=AJAX)
+</br></br></br>
 
 
 ### Some of the technologies I have worked with-</br>
@@ -38,7 +38,17 @@
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
+</br></br></br>
+
+
+### Some Stats About Touhid Alam (Public Only)
+<p align="center" >
+  <a href="https://github.com/touhidalam09">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=touhidalam09&theme=buefy&show_icons=true&theme=merko" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidalam09&theme=buefy&layout=compact" />
+  </a>
+</p>
+</br></br></br>
 
 
 ⭐️ From [Touhid Alam](https://github.com/touhidalam09)
