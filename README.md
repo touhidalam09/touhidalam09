@@ -11,25 +11,33 @@
 
 
 ### - 🌱 I’m currently useing </br>
-![Material-UI](https://img.shields.io/badge/-MaterialUI-000000?style=for-the-badge&logo=Material-UI)
+![Material-UI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=React)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![TAILWIND css](https://img.shields.io/badge/-tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
 </br></br>
 
 ### - 🌱 I Know More About </br>
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel)
-![JQuery](https://img.shields.io/badge/-JQuery-000000?style=for-the-badge&logo=jquery)
+![CodeIgneter4](https://img.shields.io/badge/-CodeIgneter-000000?style=for-the-badge&logo=codeIgneter)
+![MySql](https://img.shields.io/badge/-MySql-000000?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![AJAX](https://img.shields.io/badge/-AJAX-000000?style=for-the-badge&logo=AJAX)
+![JQuery](https://img.shields.io/badge/-JQuery-000000?style=for-the-badge&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![MySql](https://img.shields.io/badge/-MySql-000000?style=for-the-badge&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![CodeIgneter4](https://img.shields.io/badge/-CodeIgneter4-000000?style=for-the-badge&logo=codeIgneter)
-![AJAX](https://img.shields.io/badge/-AJAX-000000?style=for-the-badge&logo=AJAX)
-</br></br></br>
+</br></br>
+
+### - 🌱 I used some librarys </br>
+![FORMIK](https://img.shields.io/badge/-FORMIK-000000?style=for-the-badge&logo=FORMIK)
+</br></br>
 
 
 ### Some of the technologies I have worked with-</br>
