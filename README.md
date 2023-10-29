@@ -5,7 +5,7 @@
 </br></br></br>
 
 - 👋 Hi, I’m @Touhid Alam
-- 👀 I’m interested in Web Development, Gaming, Traveling, Cocking.
+- 👀 I’m interested in Software Development, Gaming, Traveling, and Cooking.
 </br></br></br>
 
 
