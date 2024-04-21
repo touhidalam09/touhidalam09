@@ -41,6 +41,7 @@
 
 ### - 🌱 I used some librarys </br>
 ![FORMIK](https://img.shields.io/badge/-FORMIK-000000?style=for-the-badge&logo=FORMIK)
+![REACTHOOKFORM](https://img.shields.io/badge/-react_hook_form-000000?style=for-the-badge&logo=react-hook-form)
 </br></br>
 
 
