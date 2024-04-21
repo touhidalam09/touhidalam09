@@ -4,23 +4,27 @@
 [![Medium Badge](https://img.shields.io/badge/-@TouhidAlamProtfolio-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://touhid-09.web.app/)](https://touhid-09.web.app/)
 </br></br></br>
 
-- 👋 Hi, I’m @Touhid Alam
-- 👀 I’m interested in Software Development, Gaming, Traveling, and Cooking.
+- 👋 Greetings, I’m @Touhid Alam
+- 👀 My interests lie in the realms of Software Development, Gaming, Travel, and Cooking.
 </br></br></br>
 
 
 
 ### - 🌱 I’m currently useing </br>
-![Material-UI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
-![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=React)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-000000?style=for-the-badge&logo=antdesign)
+![shadcn/ui](https://img.shields.io/badge/-shadcn\ui-000000?style=for-the-badge&logo=shadcn\ui)
 ![TAILWIND css](https://img.shields.io/badge/-tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
 </br></br>
 
 ### - 🌱 I Know More About </br>
+![Material-UI](https://img.shields.io/badge/-MUI-000000?style=for-the-badge&logo=mui)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
